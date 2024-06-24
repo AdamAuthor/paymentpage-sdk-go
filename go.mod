@@ -1,4 +1,4 @@
-module github.com/AdamAuthor/paymentpage-sdk-go
+module github.com/Jetpay/paymentpage-sdk-go
 
 go 1.20
 
