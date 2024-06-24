@@ -1,5 +1,5 @@
-module github.com/Jetpay/paymentpage-sdk-go
+module github.com/AdamAuthor/paymentpage-sdk-go
 
-go 1.20
+go 1.22.2
 
-require github.com/google/uuid v1.3.0 // indirect
+require github.com/google/uuid v1.6.0
