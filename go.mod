@@ -1,4 +1,4 @@
-module paymentpage
+module github.com/AdamAuthor/paymentpage-sdk-go
 
 go 1.20
 
